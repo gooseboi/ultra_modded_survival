@@ -1,0 +1,36 @@
+hash-format = "sha256"
+
+[[files]]
+file = "mods/bibliocraft.pw.toml"
+hash = "79804cc59dd13f3a6a3f99c66d3113d577d944940a0c4736f432226945fbec3f"
+metafile = true
+
+[[files]]
+file = "mods/billund-67503.pw.toml"
+hash = "06b30bd3b1f2fb1698d27a4dd72b47d97739995373e753bb957e5408f1e8b459"
+metafile = true
+
+[[files]]
+file = "mods/biomesoplenty.pw.toml"
+hash = "a2ea42d5502dd98232762d173b6d06443d2524f4a04a6358aad529a692ab74a7"
+metafile = true
+
+[[files]]
+file = "mods/buildcraft.pw.toml"
+hash = "d322e47a85ae750077b57d537ec8679b6b77b6cf059789e3933ab06a81f1b447"
+metafile = true
+
+[[files]]
+file = "mods/obsidiplates.pw.toml"
+hash = "bffec547a87edb31f4db8980f3d5fd38a0febdad5337ebc0c216851035ada443"
+metafile = true
+
+[[files]]
+file = "mods/switches.pw.toml"
+hash = "bd7691e1ffac1c1b7947a3c6874c5fc8df34e084ee032aed74be22b70c65162f"
+metafile = true
+
+[[files]]
+file = "mods/tmagriculture.pw.toml"
+hash = "1922a8c67bf9307820d13e8d5bd805782d2397a92aa1dce4de581e0b143b2ce7"
+metafile = true

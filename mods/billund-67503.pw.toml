@@ -1,0 +1,13 @@
+name = "Billund"
+filename = "BILLUND1.01.zip"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "e832df3b3743cf1152a8ba54eebe42ff318f0674"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 746764
+project-id = 67503

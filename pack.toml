@@ -1,0 +1,13 @@
+name = "Ultra Modded Survival"
+author = "chonk"
+version = "0.0.1"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "2a6927bdb9a34cbe22a9eac5a3af01e565191dec7f6c25be7dd7488350da07a9"
+
+[versions]
+forge = "9.11.1.965"
+minecraft = "1.6.4"

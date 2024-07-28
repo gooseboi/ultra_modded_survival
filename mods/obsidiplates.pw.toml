@@ -1,0 +1,8 @@
+name = "obsidiplates"
+filename = "obsidiplates-1.6.2-universal-2.0.0.15.jar"
+side = "both"
+
+[download]
+url = "https://web.archive.org/web/20140722090842/http://addons.curse.cursecdn.com/files/717/778/obsidiplates-1.6.2-universal-2.0.0.15.jar"
+hash-format = "sha256"
+hash = "af93dbc687926a9e627ab29aa40da6eebcb22e4f785c71859141c7f962070506"

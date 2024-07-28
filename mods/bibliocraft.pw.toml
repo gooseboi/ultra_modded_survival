@@ -1,0 +1,13 @@
+name = "BiblioCraft"
+filename = "BiblioCraft[v1.5.5].zip"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "3bb91bebdfc05d15fc19d4eade9ee62d36b9fabd"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 2229127
+project-id = 228027

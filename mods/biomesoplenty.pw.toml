@@ -1,0 +1,8 @@
+name = "biomesoplenty"
+filename = "BiomesOPlenty-universal-1.6.4-1.2.1.434.jar"
+side = "both"
+
+[download]
+url = "https://web.archive.org/web/20150219022855/http://files.minecraftforge.net/BiomesOPlenty/BiomesOPlenty-universal-1.6.4-1.2.1.434.jar"
+hash-format = "sha256"
+hash = "53c48a5f2b1eb7f003f10679fe5ec7298a5c44741c9a2f6055efe6873aab173d"
