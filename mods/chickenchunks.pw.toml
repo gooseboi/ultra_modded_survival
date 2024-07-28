@@ -1,0 +1,13 @@
+name = "ChickenChunks"
+filename = "ChickenChunks-1.6.4-1.3.3.4-universal.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "3800eae0663b50a658d51e57d3fb79dbe974ec81"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 2233248
+project-id = 229316

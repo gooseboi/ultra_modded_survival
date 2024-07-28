@@ -1,0 +1,7 @@
+name = "computercraft"
+filename = "ComputerCraft1.63.jar"
+
+[download]
+url = "https://homesrv.ashleighhost.net/NoraMod/ComputerCraft/1.6.4/ComputerCraft1.63.jar"
+hash-format = "sha256"
+hash = "8d6f59ec02d9e76421f425612b6e0dc57f2a526f9a789fd03f96373acc482c1b"

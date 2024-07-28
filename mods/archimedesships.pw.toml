@@ -1,0 +1,7 @@
+name = "archimedesships"
+filename = "ArchimedesShips-1.4.5.zip"
+
+[download]
+url = "https://homesrv.ashleighhost.net/NoraMod/Archimedes%20Ships/1.6.4/ArchimedesShips-1.4.5.zip"
+hash-format = "sha256"
+hash = "9c15ca396521f378365bd74e0fa51c67f312aef0cada07668f35ba26b39ca04c"

@@ -1,0 +1,13 @@
+name = "NotEnoughItems"
+filename = "NotEnoughItems-1.6.4-1.6.1.9-universal.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "548dcc9ad0de2c496f31f716c293d8596e55c8a5"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 2207574
+project-id = 222211

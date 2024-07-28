@@ -1,0 +1,7 @@
+name = "compactsolars"
+filename = "compactsolars-universal-1.6.4-4.4.20.305.zip"
+
+[download]
+url = "https://homesrv.ashleighhost.net/NoraMod/Compact%20Solars/1.6.4/compactsolars-universal-1.6.4-4.4.20.305.zip"
+hash-format = "sha256"
+hash = "0f33445e72e55fd7e70f00baf03904185250a1a27185ba0532f2d7ee16a3a1c5"

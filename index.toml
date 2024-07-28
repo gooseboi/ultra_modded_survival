@@ -1,6 +1,11 @@
 hash-format = "sha256"
 
 [[files]]
+file = "mods/archimedesships.pw.toml"
+hash = "85b9194ff7464159e9cf5a246e110e6ce916792cee143981568dcc4c017c0745"
+metafile = true
+
+[[files]]
 file = "mods/bibliocraft.pw.toml"
 hash = "79804cc59dd13f3a6a3f99c66d3113d577d944940a0c4736f432226945fbec3f"
 metafile = true
@@ -21,8 +26,48 @@ hash = "d322e47a85ae750077b57d537ec8679b6b77b6cf059789e3933ab06a81f1b447"
 metafile = true
 
 [[files]]
+file = "mods/chickenchunks.pw.toml"
+hash = "4bad6e82715df62ffb9c3a12c1c66bdd122bc4198be2fe0f217d84b914134598"
+metafile = true
+
+[[files]]
+file = "mods/codechickencore.pw.toml"
+hash = "28e2bb0db32793e42a20f4feb01e0c6348125c5005710e22a825b5d78e6a8914"
+metafile = true
+
+[[files]]
+file = "mods/cofh-core.pw.toml"
+hash = "35560ec16bd3ad0ddf9a35ee6d126fb312c3abefcbf55b2d6ebaf7045af977f4"
+metafile = true
+
+[[files]]
+file = "mods/compactsolars.pw.toml"
+hash = "e12737f5feea8af70e15701ea63e462bf6f37a3f9192cd80063f72f7cccd338f"
+metafile = true
+
+[[files]]
+file = "mods/computercraft.pw.toml"
+hash = "7c446bbab6135821a71e59057749163059c9b9c306bde698adb1edcffcf13a25"
+metafile = true
+
+[[files]]
+file = "mods/ender-storage.pw.toml"
+hash = "4c499f0d7de3625cca10ed825b7ac3d8d994eae5f27472f0dc735dd69bdd8c03"
+metafile = true
+
+[[files]]
+file = "mods/notenoughitems.pw.toml"
+hash = "5a198bf5096925b32c41a233d822edde363f01ab910aae1cb826c4bddee7f146"
+metafile = true
+
+[[files]]
 file = "mods/obsidiplates.pw.toml"
 hash = "bffec547a87edb31f4db8980f3d5fd38a0febdad5337ebc0c216851035ada443"
+metafile = true
+
+[[files]]
+file = "mods/redstone-arsenal.pw.toml"
+hash = "e443533a5eccbfc3b427097ef77c06fbcd680ef27e50ecbbb11c66603e3bac79"
 metafile = true
 
 [[files]]
@@ -33,4 +78,9 @@ metafile = true
 [[files]]
 file = "mods/tmagriculture.pw.toml"
 hash = "1922a8c67bf9307820d13e8d5bd805782d2397a92aa1dce4de581e0b143b2ce7"
+metafile = true
+
+[[files]]
+file = "mods/translocators.pw.toml"
+hash = "612e11e41aaea49b933304e0aa6d695ebf5fc3169c66a02899e8a939c49718bf"
 metafile = true

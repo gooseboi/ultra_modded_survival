@@ -1,0 +1,13 @@
+name = "Translocators"
+filename = "Translocator-1.6.4-1.1.0.15-universal.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "40b9b49b8f207349f4c34b6adf101d540e6e8cd6"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 2233260
+project-id = 229318
