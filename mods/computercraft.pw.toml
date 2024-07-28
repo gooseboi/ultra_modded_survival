@@ -1,5 +1,6 @@
 name = "computercraft"
 filename = "ComputerCraft1.63.jar"
+side = "both"
 
 [download]
 url = "https://homesrv.ashleighhost.net/NoraMod/ComputerCraft/1.6.4/ComputerCraft1.63.jar"

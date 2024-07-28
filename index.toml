@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "mods/archimedesships.pw.toml"
-hash = "85b9194ff7464159e9cf5a246e110e6ce916792cee143981568dcc4c017c0745"
+hash = "a9f8344c2e4fac6f829f9f9534d31cb71477100b7bf9e0c720559ebde8e71401"
 metafile = true
 
 [[files]]
@@ -42,12 +42,12 @@ metafile = true
 
 [[files]]
 file = "mods/compactsolars.pw.toml"
-hash = "e12737f5feea8af70e15701ea63e462bf6f37a3f9192cd80063f72f7cccd338f"
+hash = "31893a50a1991f549cf88620bc790f11750fd0a79815e23e82137809e98d1cb8"
 metafile = true
 
 [[files]]
 file = "mods/computercraft.pw.toml"
-hash = "7c446bbab6135821a71e59057749163059c9b9c306bde698adb1edcffcf13a25"
+hash = "b1ec74a815372c580bc6d9502989de0c02165e36536d534ebd1c16d6347a3202"
 metafile = true
 
 [[files]]
@@ -72,7 +72,12 @@ metafile = true
 
 [[files]]
 file = "mods/switches.pw.toml"
-hash = "bd7691e1ffac1c1b7947a3c6874c5fc8df34e084ee032aed74be22b70c65162f"
+hash = "7b19c00f89a2d704a9d2bde5a4690f7fb2ac38e06dd931a683063a5d79f4dcc1"
+metafile = true
+
+[[files]]
+file = "mods/thermalexpansion.pw.toml"
+hash = "313798ef61a51a5680327e469c6423a04f217ee43e93636b797747f945642583"
 metafile = true
 
 [[files]]

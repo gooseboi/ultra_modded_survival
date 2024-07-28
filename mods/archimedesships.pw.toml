@@ -1,5 +1,6 @@
 name = "archimedesships"
 filename = "ArchimedesShips-1.4.5.zip"
+side = "both"
 
 [download]
 url = "https://homesrv.ashleighhost.net/NoraMod/Archimedes%20Ships/1.6.4/ArchimedesShips-1.4.5.zip"

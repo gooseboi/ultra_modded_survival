@@ -1,5 +1,6 @@
 name = "compactsolars"
 filename = "compactsolars-universal-1.6.4-4.4.20.305.zip"
+side = "both"
 
 [download]
 url = "https://homesrv.ashleighhost.net/NoraMod/Compact%20Solars/1.6.4/compactsolars-universal-1.6.4-4.4.20.305.zip"

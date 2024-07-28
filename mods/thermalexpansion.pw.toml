@@ -1,0 +1,7 @@
+name = "thermalexpansion"
+filename = "ThermalExpansion-3.0.0.5.jar"
+
+[download]
+url = "https://homesrv.ashleighhost.net/NoraMod/Thermal%20Expansion/1.6.x/ThermalExpansion-3.0.0.5.jar"
+hash-format = "sha256"
+hash = "7ea4cdcedfa5b55b65a2c1e6f8b8743421815ad535dba59bad14fd4c3afdca7a"
