@@ -1,0 +1,91 @@
+Agriculture
+Applied-Energistics
+Archimedes' Ships
+Ars Magica
+Better-Sprinting
+BiblioCraft
+BiblioWoods
+Billund
+Biomes O Plenty
+bspkrs Core
+BuildCraft
+Charge Pads
+Chat Bubbles
+Chicken Chunks
+CodeChickenCore
+CoFH Core
+Compact Solars
+ComputerCraft
+Damage Indicators
+Death Counter
+denLib
+Dragon Mounts
+Ender Storage
+Equivalency
+Equivalent Exchange
+Extra Bees
+Extra Cells
+Extra Utilities
+Factorization
+Flans Mod
+Flat Signs
+Forestry
+FPS Plus
+GalactiCraft
+Gravity Gun
+Hats
+iChun Util
+IndustrialCraft
+Inventory Tweaks
+Iron Chests
+LomLib
+Magic Bees
+MineFactory Reloaded
+Modular Force Field System
+Modular Powersuits
+Modular Powersuits Addons
+Morph
+MystCraft
+Natura
+NEI Addons
+NEI Plugins
+Nether Ores
+Not Enough Codecs
+Not Enough Items
+Numina
+ObsidiPlates
+Open Blocks
+Open ModsLib
+OptiFine
+OptiLeaves
+OreSpawn
+Portal Gun
+PowerCrystals Core
+Project Red
+Quarry Plus
+RailCraft
+Redstone Arsenal
+Resonant Engine
+Shatter
+Soul Shards
+Sparklez Block
+Steve's Carts
+Switches
+Sync
+TelePads
+ThaumCraft 4
+Thaumic Tinkerer
+Thermal Expansion
+TiC Tooltips
+Tinker's Construct
+Trade Booth
+Translocators
+TreeCapitator
+TropiCraft
+Twilight Forest
+UMS Configs
+UMS Core
+Universal Electricity
+Voxel Mods
+What Am I Looking At?
+Zan's Minimap
