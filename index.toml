@@ -16,6 +16,11 @@ hash = "06b30bd3b1f2fb1698d27a4dd72b47d97739995373e753bb957e5408f1e8b459"
 metafile = true
 
 [[files]]
+file = "mods/binnie-s-mods.pw.toml"
+hash = "56fff47363629bca64966b61b9fb6acbc35b9f891477392c0aaa8ca4e00b077c"
+metafile = true
+
+[[files]]
 file = "mods/biomesoplenty.pw.toml"
 hash = "997e0dd3a270e646c7d5b17cc4af2ecccfd73581c07052fcd865ff0c22c62857"
 metafile = true
@@ -51,8 +56,83 @@ hash = "0fd153bbb68c8f88268af985af90f455d511cd300d20d6fb342119351c07e5f8"
 metafile = true
 
 [[files]]
+file = "mods/damage-indicators.pw.toml"
+hash = "5f2b357dc1d41ff9e24604d8a2867766fa6a82a15cc48444394b1c3c269856eb"
+metafile = true
+
+[[files]]
+file = "mods/death-counter.pw.toml"
+hash = "9513b8a5a22dbe51b1a6f05b5575cf68119a35ae04d8b397529b9c0a9915a5db"
+metafile = true
+
+[[files]]
+file = "mods/denlib.pw.toml"
+hash = "361e8dc6992d18a56360f7fc62b03d8428e02508d003339e997f01450639da5d"
+metafile = true
+
+[[files]]
+file = "mods/dragon-mounts.pw.toml"
+hash = "2d50b093c691eaf6d2b7271707399ffedd18b94388e06946be3da579746629da"
+metafile = true
+
+[[files]]
 file = "mods/ender-storage.pw.toml"
 hash = "4c499f0d7de3625cca10ed825b7ac3d8d994eae5f27472f0dc735dd69bdd8c03"
+metafile = true
+
+[[files]]
+file = "mods/equivalent-exchange-3.pw.toml"
+hash = "44e1e967478917af9dbc662de126734e4bf645b9ec9537ee471334addbd70bb0"
+metafile = true
+
+[[files]]
+file = "mods/factorization.pw.toml"
+hash = "6c52a5e1acd5d474270cc0bff0574bc2215a508d1d552826fd6cd344da7a468f"
+metafile = true
+
+[[files]]
+file = "mods/flatsigns.pw.toml"
+hash = "45289a1a895b883868e9964ad5de51a69c8df170c3c26e26f01bebe49ec2e4f1"
+metafile = true
+
+[[files]]
+file = "mods/forestry.pw.toml"
+hash = "5697476af4860939b1c761d7427a76764cbdde8dc43a814907573dba29562826"
+metafile = true
+
+[[files]]
+file = "mods/fpsplus-lagfixes.pw.toml"
+hash = "6d4abfb1bb550e46816a304a02c868f2cba416db21f8ede0540a99337471aba3"
+metafile = true
+
+[[files]]
+file = "mods/gravity-gun.pw.toml"
+hash = "4cef5d4a16f5be002f859b12b73667f26f1bf0f3faeee2c94b6e4e514c99b583"
+metafile = true
+
+[[files]]
+file = "mods/hats.pw.toml"
+hash = "bd73746cf886473d3c0336e59592ce4925ed63e62e6189e1c1e3201be5a68157"
+metafile = true
+
+[[files]]
+file = "mods/ichunutil.pw.toml"
+hash = "0806c6029a6fac15b0843e0490e752d76c6b02cbb3a4d26c51a82d4132119dd3"
+metafile = true
+
+[[files]]
+file = "mods/industrial-craft-2.pw.toml"
+hash = "d7fe64f343dd2bc87ce2a65bcc8041e7ecbaddf76ef9ecb0688075aa2c620ada"
+metafile = true
+
+[[files]]
+file = "mods/iron-chests.pw.toml"
+hash = "af2fabcdd8e41553a40b82af8dfe39db41e864d4968efa5982496d481191f0a1"
+metafile = true
+
+[[files]]
+file = "mods/morph.pw.toml"
+hash = "87896d50432758ef74dd8d323d1574a86c6d32235bf1d2a368de804f95803a55"
 metafile = true
 
 [[files]]
@@ -66,13 +146,33 @@ hash = "10a60b32dad6bb210687fb03bf0d53a031a47de537526502b550a249c7d41912"
 metafile = true
 
 [[files]]
+file = "mods/portal-gun.pw.toml"
+hash = "a2e3749a2c2828a3792f36d141f3eb47c7dcb63efefe3a8bab76efc0150cf08a"
+metafile = true
+
+[[files]]
+file = "mods/quarry-plus.pw.toml"
+hash = "2efd15983d4a7fe7f87b9278ed1526d9295f8970a522db1853faf834d9f6aefd"
+metafile = true
+
+[[files]]
 file = "mods/redstone-arsenal.pw.toml"
 hash = "e443533a5eccbfc3b427097ef77c06fbcd680ef27e50ecbbb11c66603e3bac79"
 metafile = true
 
 [[files]]
+file = "mods/shatter.pw.toml"
+hash = "fc0361e61f531525d3eb25164347c324149d66f6809018db1d69a9e5aeca3c84"
+metafile = true
+
+[[files]]
 file = "mods/switches.pw.toml"
 hash = "7b19c00f89a2d704a9d2bde5a4690f7fb2ac38e06dd931a683063a5d79f4dcc1"
+metafile = true
+
+[[files]]
+file = "mods/sync.pw.toml"
+hash = "b64f68b507866f23d2e66df759258007c56f5e4c2d6c274cedbbf495d6cb0feb"
 metafile = true
 
 [[files]]

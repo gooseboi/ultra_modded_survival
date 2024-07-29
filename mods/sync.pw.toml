@@ -1,0 +1,13 @@
+name = "Sync"
+filename = "Sync2.2.2.zip"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "ab79910afbeac09f393d435862211764a7848df5"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 2232306
+project-id = 229090

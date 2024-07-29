@@ -1,0 +1,7 @@
+name = "Dragon Mounts"
+filename = "dragonmount_r36_mc1.6.x.zip"
+
+[download]
+url = "https://homesrv.ashleighhost.net/NoraMod/DragonMount/1.6.x/dragonmount_r36_mc1.6.x.zip"
+hash-format = "sha256"
+hash = "6676dc4bfd7e6c1f50737bbac4ffa6e14770661cfef8998445cc3709159e766b"

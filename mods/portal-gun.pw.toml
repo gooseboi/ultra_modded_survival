@@ -1,0 +1,7 @@
+name = "Portal Gun"
+filename = "PortalGun2.0.2.zip"
+
+[download]
+url = "https://homesrv.ashleighhost.net/NoraMod/Portal%20Gun/1.6.4/PortalGun2.0.2.zip"
+hash-format = "sha256"
+hash = "5c625d84ce540114715bc23f4a6229981c5c398dfa0bca46b6674d69a11916ad"

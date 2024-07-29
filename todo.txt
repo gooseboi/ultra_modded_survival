@@ -2,3 +2,5 @@ Zan's Minimap 1.6.4:      https://www.mediafire.com/download/fctjzgq71e8lr9d/Zan
 Zan's Minimap 1.6.4:      https://homesrv.ashleighhost.net/NoraMod/Zans%20Minimap/1.6.4/ZansMinimap1.6.4.zip,        sha256:3a61908c9972d0063a18a94ccfd0366cc9a7ba2389590434272cd362adb13bb5
 ChatBubbles 1.6.4:        https://www.mediafire.com/download/2rtcxqg6u3rax5y/ChatBubbles1.6.4.zip,                   sha256:d62736b312fac6372dfd6df3b5aa8827ebb499a78f67c6d54666ffe6363d1802
 OreSpawn 1.6.4v17:        https://dangerzone-archive.weebly.com/orespawn.html,                                       sha256:d9a353a62135d26140088f5e2657a3452bfbf292d50615f680e5cef6e9fa36e9
+Extra Cells 1.6.8f:       This is available at https://github.com/ExtraCells/ExtraCells1, but no binaries are available. Luckily, it is open source, but I haven't gotten it to build yet :v.
+Flans Mod 4.1.1:          There is source code, but I don't think any version matches v4.1.1 of the mod. I couldn't find any other source for it.

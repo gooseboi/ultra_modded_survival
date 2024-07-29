@@ -1,0 +1,13 @@
+name = "FlatSigns"
+filename = "flatsigns-1.6.2-universal-1.4.0.15.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "37eacd359c4cdd08b0cd9d96aede1c7bf66005da"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 720249
+project-id = 59856

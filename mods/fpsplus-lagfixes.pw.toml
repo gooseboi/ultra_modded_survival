@@ -1,0 +1,13 @@
+name = "FpsPlus"
+filename = "FpsPlus1.6.4_v2.zip"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "000ef21e870b586cf643037afa349cd943a79461"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 756419
+project-id = 66016

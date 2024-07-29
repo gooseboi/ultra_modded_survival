@@ -1,0 +1,7 @@
+name = "Morph"
+filename = "Morph-Beta-0.7.1.zip"
+
+[download]
+url = "https://homesrv.ashleighhost.net/NoraMod/Morph/1.6.4/Morph-Beta-0.7.1.zip"
+hash-format = "sha256"
+hash = "6e6b77c76f5b16203a3880cb0af2c0db3879b4738c5465c8fb15ccd04ed28f53"

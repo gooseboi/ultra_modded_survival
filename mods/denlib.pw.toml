@@ -1,0 +1,7 @@
+name = "denLib"
+filename = "denLib-1.6.4-3.2.6.jar"
+
+[download]
+url = "https://homesrv.ashleighhost.net/NoraMod/denLib/1.6.4/denLib-1.6.4-3.2.6.jar"
+hash-format = "sha256"
+hash = "054e82bdd9e1484628c7c79806e8992b6b4ce2aff0548d832f947662940b059c"

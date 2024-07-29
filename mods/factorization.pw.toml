@@ -1,0 +1,13 @@
+name = "Factorization"
+filename = "Factorization-0.8.34.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/XmseIqaa/versions/0.8.34/Factorization-0.8.34.jar"
+hash-format = "sha1"
+hash = "40a2dd7c0d247aab4326c4dc97b70b5b6645ceff"
+
+[update]
+[update.modrinth]
+mod-id = "XmseIqaa"
+version = "INyrb6Kr"

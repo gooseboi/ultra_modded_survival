@@ -1,0 +1,7 @@
+name = "Iron Chests"
+filename = "ironchest-universal-1.6.4-5.4.1.702.zip"
+
+[download]
+url = "https://homesrv.ashleighhost.net/NoraMod/Iron%20Chests/1.6.4/ironchest-universal-1.6.4-5.4.1.702.zip"
+hash-format = "sha256"
+hash = "e60bf2d3db489ecd21d653fafa5ca649085a65b2434ee371c1112d5e26d7d856"
