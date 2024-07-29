@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "mods/archimedesships.pw.toml"
-hash = "a9f8344c2e4fac6f829f9f9534d31cb71477100b7bf9e0c720559ebde8e71401"
+hash = "2b75baa355829fcd7c2b3ee6f2cb40a7ab21b90b71222dbe8560b9d4fd68b737"
 metafile = true
 
 [[files]]
@@ -17,7 +17,7 @@ metafile = true
 
 [[files]]
 file = "mods/biomesoplenty.pw.toml"
-hash = "b145e45b60a83416c96f7ff324497c9ea9279767950f21f97534502ba83c62da"
+hash = "997e0dd3a270e646c7d5b17cc4af2ecccfd73581c07052fcd865ff0c22c62857"
 metafile = true
 
 [[files]]
@@ -42,12 +42,12 @@ metafile = true
 
 [[files]]
 file = "mods/compactsolars.pw.toml"
-hash = "31893a50a1991f549cf88620bc790f11750fd0a79815e23e82137809e98d1cb8"
+hash = "08739bee582cb63e07a0f3674b82954e0af5ee18f42cef092b8e57f9c197e924"
 metafile = true
 
 [[files]]
 file = "mods/computercraft.pw.toml"
-hash = "b1ec74a815372c580bc6d9502989de0c02165e36536d534ebd1c16d6347a3202"
+hash = "0fd153bbb68c8f88268af985af90f455d511cd300d20d6fb342119351c07e5f8"
 metafile = true
 
 [[files]]
@@ -62,7 +62,7 @@ metafile = true
 
 [[files]]
 file = "mods/obsidiplates.pw.toml"
-hash = "878c6d00086252e5c67f48582ea86354ce87ef217e42af686505a9bd27da0769"
+hash = "10a60b32dad6bb210687fb03bf0d53a031a47de537526502b550a249c7d41912"
 metafile = true
 
 [[files]]
@@ -77,7 +77,7 @@ metafile = true
 
 [[files]]
 file = "mods/thermalexpansion.pw.toml"
-hash = "313798ef61a51a5680327e469c6423a04f217ee43e93636b797747f945642583"
+hash = "5d9be4243d5b8af6f83b241c7707f79fc62553009cd0a6bfa55f2bccd058c596"
 metafile = true
 
 [[files]]
