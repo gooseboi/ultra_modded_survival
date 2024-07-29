@@ -17,7 +17,7 @@ metafile = true
 
 [[files]]
 file = "mods/biomesoplenty.pw.toml"
-hash = "a2ea42d5502dd98232762d173b6d06443d2524f4a04a6358aad529a692ab74a7"
+hash = "b145e45b60a83416c96f7ff324497c9ea9279767950f21f97534502ba83c62da"
 metafile = true
 
 [[files]]
@@ -62,7 +62,7 @@ metafile = true
 
 [[files]]
 file = "mods/obsidiplates.pw.toml"
-hash = "bffec547a87edb31f4db8980f3d5fd38a0febdad5337ebc0c216851035ada443"
+hash = "878c6d00086252e5c67f48582ea86354ce87ef217e42af686505a9bd27da0769"
 metafile = true
 
 [[files]]
