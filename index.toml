@@ -126,13 +126,43 @@ hash = "d7fe64f343dd2bc87ce2a65bcc8041e7ecbaddf76ef9ecb0688075aa2c620ada"
 metafile = true
 
 [[files]]
+file = "mods/inventory-tweaks.pw.toml"
+hash = "5eb5434d7540a28f1046b2a2b5fb95732394401719f65ca3ad86e336452d0d1d"
+metafile = true
+
+[[files]]
 file = "mods/iron-chests.pw.toml"
 hash = "af2fabcdd8e41553a40b82af8dfe39db41e864d4968efa5982496d481191f0a1"
 metafile = true
 
 [[files]]
+file = "mods/minefactory-reloaded.pw.toml"
+hash = "e41afbcf542ef664216cc50c4db41b7775757138fea5ff033a7558237a3e1982"
+metafile = true
+
+[[files]]
+file = "mods/modular-force-field-system.pw.toml"
+hash = "3ab13463554d93cf466dbfc69574ff7e36a8296dbf9dbfb826a3c46767702304"
+metafile = true
+
+[[files]]
 file = "mods/morph.pw.toml"
 hash = "87896d50432758ef74dd8d323d1574a86c6d32235bf1d2a368de804f95803a55"
+metafile = true
+
+[[files]]
+file = "mods/mystcraft.pw.toml"
+hash = "8a1e9b5a073640dd52200f746e183ebb25489828546cd6099c0c5a728e7f7ece"
+metafile = true
+
+[[files]]
+file = "mods/natura.pw.toml"
+hash = "09c632ccf9a5bbcb1211e030cc63326e866950c69672746fd0a62e318e49bceb"
+metafile = true
+
+[[files]]
+file = "mods/netherores.pw.toml"
+hash = "b8790d6b46bf301ae0b21242bba934d9f28e1c1244c2264573ae6084d388a296"
 metafile = true
 
 [[files]]
@@ -148,6 +178,11 @@ metafile = true
 [[files]]
 file = "mods/portal-gun.pw.toml"
 hash = "a2e3749a2c2828a3792f36d141f3eb47c7dcb63efefe3a8bab76efc0150cf08a"
+metafile = true
+
+[[files]]
+file = "mods/powercrystalscore.pw.toml"
+hash = "48fa9813089dca304766c1a63c7091241590e4221608686ffa90c41805ca1d46"
 metafile = true
 
 [[files]]
@@ -188,4 +223,9 @@ metafile = true
 [[files]]
 file = "mods/translocators.pw.toml"
 hash = "612e11e41aaea49b933304e0aa6d695ebf5fc3169c66a02899e8a939c49718bf"
+metafile = true
+
+[[files]]
+file = "mods/universal-electriciy.pw.toml"
+hash = "5cbfeb371008d6a3b1cd769c0587e3ab97ae4edab7fe37af4443ce64733c2607"
 metafile = true

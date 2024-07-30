@@ -1,0 +1,7 @@
+name = "Mystcraft"
+filename = "mystcraft-uni-1.6.4-0.10.12.01.zip"
+
+[download]
+url = "https://homesrv.ashleighhost.net/NoraMod/Mystcraft/1.6.4/mystcraft-uni-1.6.4-0.10.12.01.zip"
+hash-format = "sha256"
+hash = "58cf16e3181c3ae4188647c75b405414d4b67987347035ccbe6eb89f12fdf263"

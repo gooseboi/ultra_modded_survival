@@ -1,0 +1,13 @@
+name = "PowerCrystalsCore"
+filename = "PowerCrystalsCore-1.1.8-9.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "6f478ff6221b2b63225f6d34214f5537c52e0924"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 753761
+project-id = 66673

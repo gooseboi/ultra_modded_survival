@@ -1,0 +1,7 @@
+name = "Universal Electriciy"
+filename = "download"
+
+[download]
+url = "https://web.archive.org/web/20140703145344mp_/http://calclavia.com/download/?name=Universal%20Electricity&r=http%3A%2F%2Fcalclavia.com%2Fjenkins%2Fjobs%2FUniversal%20Electricity%2Fbuilds%2F114%2Farchive%2Foutput%2FUniversal-Electricity-3.1.0.114-core.jar"
+hash-format = "sha256"
+hash = "2757da608a5a750d0c02d10cbe3c8eaafda9ef728293af537638528907491bfd"

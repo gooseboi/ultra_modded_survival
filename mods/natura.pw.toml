@@ -1,0 +1,13 @@
+name = "Natura"
+filename = "Natura_mc1.6.X_2.1.14.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "10c779a40aae5fe6e8b71ea6b8d6b813586f5e61"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 772550
+project-id = 74120

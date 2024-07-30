@@ -1,0 +1,7 @@
+name = "Modular Force Field System"
+filename = "Modular-Force-Field-System-3.6.3.91-core.jar"
+
+[download]
+url = "https://web.archive.org/web/20140927065933/http://calclavia.com/jenkins/jobs/Modular%20Force%20Field%20System/builds/91/archive/output/Modular-Force-Field-System-3.6.3.91-core.jar"
+hash-format = "sha256"
+hash = "0f1a41b1ac33d73b897d5c64016f67f7f8c3056f2d0e1335981f174fc9eba660"
