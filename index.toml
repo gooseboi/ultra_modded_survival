@@ -166,8 +166,18 @@ hash = "b8790d6b46bf301ae0b21242bba934d9f28e1c1244c2264573ae6084d388a296"
 metafile = true
 
 [[files]]
+file = "mods/notenoughcodecs.pw.toml"
+hash = "7ab0ee9f9b068cd9780780603e7c685ce31f7af66f7c719e58d8b0103faa21b1"
+metafile = true
+
+[[files]]
 file = "mods/notenoughitems.pw.toml"
 hash = "5a198bf5096925b32c41a233d822edde363f01ab910aae1cb826c4bddee7f146"
+metafile = true
+
+[[files]]
+file = "mods/numina.pw.toml"
+hash = "bf2340ec649ac3b80947f5f719dc317e062ed18be4103be8190800e1ce6dd923"
 metafile = true
 
 [[files]]
@@ -186,8 +196,18 @@ hash = "48fa9813089dca304766c1a63c7091241590e4221608686ffa90c41805ca1d46"
 metafile = true
 
 [[files]]
+file = "mods/projectred.pw.toml"
+hash = "b9a0f83a2c55f8d0e5753f115260850aa9e11f4d9dfba6c1e4d58d72992187e6"
+metafile = true
+
+[[files]]
 file = "mods/quarry-plus.pw.toml"
 hash = "2efd15983d4a7fe7f87b9278ed1526d9295f8970a522db1853faf834d9f6aefd"
+metafile = true
+
+[[files]]
+file = "mods/railcraft.pw.toml"
+hash = "245508123c625936ba916d355c45d179d819a1a1f363cca4b6b19c24f39ba3c2"
 metafile = true
 
 [[files]]
@@ -196,8 +216,18 @@ hash = "e443533a5eccbfc3b427097ef77c06fbcd680ef27e50ecbbb11c66603e3bac79"
 metafile = true
 
 [[files]]
+file = "mods/resonantengine.pw.toml"
+hash = "4d6767e3ae60e4c8d61999f251bdb032a644f69de872ebf222704f0eed66db91"
+metafile = true
+
+[[files]]
 file = "mods/shatter.pw.toml"
 hash = "fc0361e61f531525d3eb25164347c324149d66f6809018db1d69a9e5aeca3c84"
+metafile = true
+
+[[files]]
+file = "mods/soulshards.pw.toml"
+hash = "fbb538d46cbef16568e43d9614b05330b8b64f45e53a648e559b0cde6f4bcc40"
 metafile = true
 
 [[files]]
@@ -211,8 +241,18 @@ hash = "b64f68b507866f23d2e66df759258007c56f5e4c2d6c274cedbbf495d6cb0feb"
 metafile = true
 
 [[files]]
+file = "mods/thaumcraft.pw.toml"
+hash = "18c64457b7134b4e3a8470647d88bd68fcd6c7c41e4fc274fb3392e7356af92d"
+metafile = true
+
+[[files]]
 file = "mods/thermalexpansion.pw.toml"
 hash = "5d9be4243d5b8af6f83b241c7707f79fc62553009cd0a6bfa55f2bccd058c596"
+metafile = true
+
+[[files]]
+file = "mods/tictooltips.pw.toml"
+hash = "014ebf8ea4603ea5d52824730c0bb191a6725b65e443ad7eea5a230f56c8d7c5"
 metafile = true
 
 [[files]]

@@ -1,0 +1,7 @@
+name = "Railcraft"
+filename = "Railcraft_1.6.4-8.4.0.0.jar"
+
+[download]
+url = "https://mcmodarchive.femtopedia.de/f9f5ea7cee6e4089be6fd576f7af4a70:mcmodarchive/Mods/R/railcraft/1.6.4/Railcraft_1.6.4-8.4.0.0.jar"
+hash-format = "sha256"
+hash = "2dc157c75a756a2f7cc46420a11a395bc96122ef852fd982c9b5feccf78355ef"
