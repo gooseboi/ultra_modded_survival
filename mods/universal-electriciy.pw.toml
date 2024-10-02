@@ -2,6 +2,6 @@ name = "Universal Electriciy"
 filename = "download"
 
 [download]
-url = "https://web.archive.org/web/20140703145344mp_/http://calclavia.com/download/?name=Universal%20Electricity&r=http%3A%2F%2Fcalclavia.com%2Fjenkins%2Fjobs%2FUniversal%20Electricity%2Fbuilds%2F114%2Farchive%2Foutput%2FUniversal-Electricity-3.1.0.114-core.jar"
+url = "https://mcmodarchive.femtopedia.de/f9f5ea7cee6e4089be6fd576f7af4a70:mcmodarchive/Mods/U/universal%20electricity/1.6.4/Universal-Electricity-3.1.0.115-core.jar"
 hash-format = "sha256"
-hash = "2757da608a5a750d0c02d10cbe3c8eaafda9ef728293af537638528907491bfd"
+hash = "64c48de2bbae50eb706204a7cc24253d595bb1cc873f18213012107428065352"

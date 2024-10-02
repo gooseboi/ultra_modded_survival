@@ -202,7 +202,7 @@ metafile = true
 
 [[files]]
 file = "mods/quarry-plus.pw.toml"
-hash = "2efd15983d4a7fe7f87b9278ed1526d9295f8970a522db1853faf834d9f6aefd"
+hash = "b4aab0e89e7dc8b95d7684ec7315887d8bb892d4765ee6bc41b627868eb3bdeb"
 metafile = true
 
 [[files]]
@@ -267,5 +267,5 @@ metafile = true
 
 [[files]]
 file = "mods/universal-electriciy.pw.toml"
-hash = "5cbfeb371008d6a3b1cd769c0587e3ab97ae4edab7fe37af4443ce64733c2607"
+hash = "77ab689a925feb3a28d79cf56464388a68ea514b2264d7f4d2b40f4882e710ab"
 metafile = true
