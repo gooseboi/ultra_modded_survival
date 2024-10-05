@@ -1,0 +1,7 @@
+name = "World Core"
+filename = "WorldCore-universal-1.6.4-1.1.0.11.jar"
+
+[download]
+url = "https://mcmodarchive.femtopedia.de/f9f5ea7cee6e4089be6fd576f7af4a70:mcmodarchive/Mods/W/worldcore/1.6.4/WorldCore-universal-1.6.4-1.1.0.11.jar"
+hash-format = "sha256"
+hash = "2766675a5c754c62d2c8ecae3ce810ba86769ae421f75c65873aed882d720c40"

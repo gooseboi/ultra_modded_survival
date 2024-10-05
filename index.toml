@@ -41,6 +41,11 @@ hash = "28e2bb0db32793e42a20f4feb01e0c6348125c5005710e22a825b5d78e6a8914"
 metafile = true
 
 [[files]]
+file = "mods/codechickenlib.pw.toml"
+hash = "8d3eedaf6df8ea7cb1ba22b25348105503d7f417476adaccbed96af20f6742ca"
+metafile = true
+
+[[files]]
 file = "mods/cofh-core.pw.toml"
 hash = "35560ec16bd3ad0ddf9a35ee6d126fb312c3abefcbf55b2d6ebaf7045af977f4"
 metafile = true
@@ -93,6 +98,11 @@ metafile = true
 [[files]]
 file = "mods/flatsigns.pw.toml"
 hash = "45289a1a895b883868e9964ad5de51a69c8df170c3c26e26f01bebe49ec2e4f1"
+metafile = true
+
+[[files]]
+file = "mods/fml.pw.toml"
+hash = "d5bebc263330e669c9d45292a6fa89eec0e89b2927e298ec3f4a068f2b0156df"
 metafile = true
 
 [[files]]
@@ -256,6 +266,11 @@ hash = "5dd3a85f503f1e390695a45606befb10f3655b4d12dfab945ecf28357003e8c3"
 metafile = true
 
 [[files]]
+file = "mods/tinker-s-construct.pw.toml"
+hash = "991d3ed9f97901c8bccc8c902b82a636ea50a19cf340aeea0e33e50254ea529e"
+metafile = true
+
+[[files]]
 file = "mods/tmagriculture.pw.toml"
 hash = "1922a8c67bf9307820d13e8d5bd805782d2397a92aa1dce4de581e0b143b2ce7"
 metafile = true
@@ -268,4 +283,9 @@ metafile = true
 [[files]]
 file = "mods/universal-electriciy.pw.toml"
 hash = "9654acf2e31fecd8e478b1aead76cd5c0de656a73f2e4985f709063660e66b97"
+metafile = true
+
+[[files]]
+file = "mods/worldcore.pw.toml"
+hash = "e12a96a7ecbf5e7623a3e577f4ef1b93e4e3dff52cfc6e49d0006d4e8dd01b7c"
 metafile = true

@@ -1,0 +1,7 @@
+name = "Forge Multipart"
+filename = "ForgeMultipart-universal-1.6.4-1.0.0.244.jar"
+
+[download]
+url = "https://mcmodarchive.femtopedia.de/f9f5ea7cee6e4089be6fd576f7af4a70:mcmodarchive/Mods/F/forge%20multipart/1.6.4/ForgeMultipart-universal-1.6.4-1.0.0.244.jar"
+hash-format = "sha256"
+hash = "c2bee58b7edeb68c8f479e2f656a8aeda88f69890a4b3f17659f545247b0ae1b"
