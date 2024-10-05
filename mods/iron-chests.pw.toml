@@ -1,5 +1,6 @@
 name = "Iron Chests"
 filename = "ironchest-universal-1.6.4-5.4.1.702.zip"
+side = "both"
 
 [download]
 url = "https://homesrv.ashleighhost.net/NoraMod/Iron%20Chests/1.6.4/ironchest-universal-1.6.4-5.4.1.702.zip"

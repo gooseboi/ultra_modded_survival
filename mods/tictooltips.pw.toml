@@ -1,5 +1,6 @@
 name = "TiCTooltips"
 filename = "TiCTooltips-mc1.6.4-1.1.6.jar"
+side = "client"
 
 [download]
 url = "https://mcmodarchive.femtopedia.de/f9f5ea7cee6e4089be6fd576f7af4a70:mcmodarchive/Mods/T/tic%20tooltips/1.6.4/TiCTooltips-mc1.6.4-1.1.6.jar"

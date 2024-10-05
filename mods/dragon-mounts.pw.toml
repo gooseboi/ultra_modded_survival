@@ -1,5 +1,6 @@
 name = "Dragon Mounts"
 filename = "dragonmount_r36_mc1.6.x.zip"
+side = "both"
 
 [download]
 url = "https://homesrv.ashleighhost.net/NoraMod/DragonMount/1.6.x/dragonmount_r36_mc1.6.x.zip"

@@ -1,5 +1,6 @@
 name = "Thaumcraft"
 filename = "Thaumcraft4.1.0g.zip"
+side = "both"
 
 [download]
 url = "https://mcmodarchive.femtopedia.de/f9f5ea7cee6e4089be6fd576f7af4a70:mcmodarchive/Mods/T/thaumcraft/1.6.4/Thaumcraft4.1.0g.zip"

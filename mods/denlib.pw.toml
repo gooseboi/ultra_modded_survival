@@ -1,5 +1,6 @@
 name = "denLib"
 filename = "denLib-1.6.4-3.2.6.jar"
+side = "both"
 
 [download]
 url = "https://homesrv.ashleighhost.net/NoraMod/denLib/1.6.4/denLib-1.6.4-3.2.6.jar"

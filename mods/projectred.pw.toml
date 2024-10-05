@@ -1,5 +1,6 @@
 name = "ProjectRed"
 filename = "ProjectRedBase-1.6.4-4.3.5.30.jar"
+side = "both"
 
 [download]
 url = "https://mcmodarchive.femtopedia.de/f9f5ea7cee6e4089be6fd576f7af4a70:mcmodarchive/Mods/P/project%20red/1.6.4/ProjectRedBase-1.6.4-4.3.5.30.jar"

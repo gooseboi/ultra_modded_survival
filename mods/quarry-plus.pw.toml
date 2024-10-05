@@ -1,5 +1,6 @@
 name = "Quarry Plus"
-filename = "download-handler"
+filename = "QuarryPlus-1.6.4-1.0.3.jar"
+side = "both"
 
 [download]
 url = "https://web.archive.org/web/20140730034541if_/http://www.denoflionsx.info/download-handler?d_id=f90f2aca5c640289d0a29417bcb63a37"

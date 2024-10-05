@@ -1,5 +1,6 @@
-name = "Universal Electriciy"
-filename = "download"
+name = "Universal Electricity"
+filename = "Universal-Electricity-3.1.0.115-core.jar"
+side = "both"
 
 [download]
 url = "https://mcmodarchive.femtopedia.de/f9f5ea7cee6e4089be6fd576f7af4a70:mcmodarchive/Mods/U/universal%20electricity/1.6.4/Universal-Electricity-3.1.0.115-core.jar"

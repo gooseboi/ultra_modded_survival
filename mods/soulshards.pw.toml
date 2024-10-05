@@ -1,5 +1,6 @@
 name = "SoulShards"
 filename = "SoulShards-2.0.15-universal-srg.jar"
+side = "both"
 
 [download]
 url = "https://mcmodarchive.femtopedia.de/f9f5ea7cee6e4089be6fd576f7af4a70:mcmodarchive/Mods/S/soul%20shards/1.6.4/SoulShards-2.0.15-universal-srg.jar"

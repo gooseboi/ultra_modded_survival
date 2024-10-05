@@ -1,5 +1,6 @@
 name = "NotEnoughCodecs"
 filename = "NotEnoughCodecs-0.1.jar"
+side = "both"
 
 [download]
 url = "https://mcmodarchive.femtopedia.de/f9f5ea7cee6e4089be6fd576f7af4a70:mcmodarchive/Mods/N/not%20enough%20codecs/1.6.4/NotEnoughCodecs-0.1.jar"

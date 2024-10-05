@@ -1,5 +1,6 @@
 name = "Damage Indicators"
 filename = "1.6.4 DamageIndicatorsv2.9.2.3.zip"
+side = "client"
 
 [download]
 url = "https://homesrv.ashleighhost.net/NoraMod/Damage%20Indicators/1.6.4/1.6.4%20DamageIndicatorsv2.9.2.3.zip"

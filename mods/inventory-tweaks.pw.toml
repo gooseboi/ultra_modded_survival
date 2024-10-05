@@ -1,5 +1,6 @@
 name = "Inventory Tweaks"
 filename = "InventoryTweaks-MC1.6.2-1.56-dev-b76.jar"
+side = "both"
 
 [download]
 url = "https://homesrv.ashleighhost.net/NoraMod/Inventory%20Tweaks/1.6.2/InventoryTweaks-MC1.6.2-1.56-dev-b76.jar"

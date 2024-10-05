@@ -1,5 +1,6 @@
 name = "Industrial Craft 2"
 filename = "industrialcraft-2_2.0.397-experimental.jar"
+side = "both"
 
 [download]
 url = "https://homesrv.ashleighhost.net/NoraMod/Industrial%20Craft%202/1.6.4/industrialcraft-2_2.0.397-experimental.jar"

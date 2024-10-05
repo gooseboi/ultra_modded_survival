@@ -1,5 +1,6 @@
 name = "Mystcraft"
 filename = "mystcraft-uni-1.6.4-0.10.12.01.zip"
+side = "both"
 
 [download]
 url = "https://homesrv.ashleighhost.net/NoraMod/Mystcraft/1.6.4/mystcraft-uni-1.6.4-0.10.12.01.zip"

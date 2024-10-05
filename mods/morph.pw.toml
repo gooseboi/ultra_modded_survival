@@ -1,5 +1,6 @@
 name = "Morph"
 filename = "Morph-Beta-0.7.1.zip"
+side = "both"
 
 [download]
 url = "https://homesrv.ashleighhost.net/NoraMod/Morph/1.6.4/Morph-Beta-0.7.1.zip"

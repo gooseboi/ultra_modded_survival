@@ -1,5 +1,6 @@
 name = "Portal Gun"
 filename = "PortalGun2.0.2.zip"
+side = "both"
 
 [download]
 url = "https://homesrv.ashleighhost.net/NoraMod/Portal%20Gun/1.6.4/PortalGun2.0.2.zip"

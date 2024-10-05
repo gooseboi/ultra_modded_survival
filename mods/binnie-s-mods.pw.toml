@@ -1,5 +1,6 @@
 name = "Binnie\\'s Mods"
 filename = "binnie-mods-1.8.0.jar"
+side = "both"
 
 [download]
 url = "https://homesrv.ashleighhost.net/NoraMod/Binnie%20Mods/1.6.4/binnie-mods-1.8.0.jar"

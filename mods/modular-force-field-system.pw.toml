@@ -1,5 +1,6 @@
 name = "Modular Force Field System"
 filename = "Modular-Force-Field-System-3.6.3.91-core.jar"
+side = "both"
 
 [download]
 url = "https://web.archive.org/web/20140927065933/http://calclavia.com/jenkins/jobs/Modular%20Force%20Field%20System/builds/91/archive/output/Modular-Force-Field-System-3.6.3.91-core.jar"
