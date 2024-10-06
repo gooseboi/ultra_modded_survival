@@ -1,0 +1,7 @@
+name = "Legacy Java Fixer"
+filename = "legacyjavafixer-1.0.jar"
+
+[download]
+url = "https://b2.mcarchive.net/file/mcarchive/056720325ac2c5031691fc2dbf9bd175cb0bc95d9ab6583b23fbace5b25c564a/legacyjavafixer-1.0.jar"
+hash-format = "sha256"
+hash = "056720325ac2c5031691fc2dbf9bd175cb0bc95d9ab6583b23fbace5b25c564a"

@@ -146,6 +146,11 @@ hash = "6f4642925f889bd6e988d27e717f98e480d9ff81c3ced59862090d9cbd15040f"
 metafile = true
 
 [[files]]
+file = "mods/legacy-java-fixer.pw.toml"
+hash = "4e0ce04c8f0c00a0b29d31d1b9ac58d1c70bb338090076294e5b3e255e03f377"
+metafile = true
+
+[[files]]
 file = "mods/minefactory-reloaded.pw.toml"
 hash = "e41afbcf542ef664216cc50c4db41b7775757138fea5ff033a7558237a3e1982"
 metafile = true
