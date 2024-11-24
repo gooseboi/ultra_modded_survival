@@ -162,7 +162,7 @@ metafile = true
 
 [[files]]
 file = "mods/modular-force-field-system.pw.toml"
-hash = "138af3d6e3705444081a46263fcd8227769ed6c17744ac4f8b73155502fde3df"
+hash = "b3a0a303e9d33e46c1ac19c24ee3a628c08931767aeb20750715c5d12fdf0fdb"
 metafile = true
 
 [[files]]
